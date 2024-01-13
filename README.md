@@ -1,4 +1,4 @@
 #FOODIE
-<a href="https://foodiebyaliza.netlify.app/">Check it out here! </a>
+<a href="https://main--foodiebyaliza.netlify.app/" target="_blank">Check it out here! </a>
 
 
